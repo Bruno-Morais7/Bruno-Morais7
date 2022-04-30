@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bruno Morais!
 - 👀 I’m interested in Sports and Learning how to code.
-- 🌱 I’m currently learning the basics...HTML and CSS 4 now.
+- 🌱 I’m currently learning the basics...HTML, CSS, Bootstrap, some JS and React.
 - 💞️ I’m looking to collaborate on projects that can help me develop my habilities.
 - 📫 How to reach me ... Several ways... Soon here!!!
 
